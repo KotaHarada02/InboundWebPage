@@ -24,7 +24,7 @@
     "id": "junmai-ginjo",
     "category": "JapaneseSake",
     "name": "Junmai Ginjo",
-    "priceYen": {"120ml":1400, "360ml":2200},
+    "priceYen": {"120ml":820, "360ml":2200},
     "ingredients": [
       "rice",
       "koji",
